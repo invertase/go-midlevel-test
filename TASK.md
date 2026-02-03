@@ -65,7 +65,6 @@ Returns a paginated list of documents.
 
 - `?offset=N` — skip the first N documents (default: 0)
 - `?limit=N` — number of documents per page (default: 50, max: 50)
-- `total` — the total number of documents available
 - The server is rate limited
 
 ## Requirements
